@@ -388,7 +388,7 @@ margin-top: 10%;
     }
 
 
-    @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 470px) {
 
         .title {
             font-size: 3.8em;
